@@ -57,17 +57,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=satyamtiwari141&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satyamtiwari141&theme=radical&hide_border=false) </p>
-
-
-
-<br><br>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<br><br>
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-
