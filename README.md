@@ -12,8 +12,8 @@
 # 🌐Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyam-tiwari-35b649206?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bii9xa9vzr46h0nxgaqu4dq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyam-tiwari-35b649206?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bii9xa9vzr46h0nxgaqu4dq%3d%3d" height="30" width="40" /></a>
-<a href="https://www.instagram.com/satyamtiwari.hrl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/satyamtiwari.hrl/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyamrtiwari?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bii9xa9vzr46h0nxgaqu4dq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyamrtiwari?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bii9xa9vzr46h0nxgaqu4dq%3d%3d" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sat.awk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sat.awk/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/t_satyam/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/t_satyam/" height="30" width="40" /></a>
 <a href="mailto:tsatyam141@gmail.com?" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="mailto:tsatyam141@gmail.com?" height="30" width="40" /></a>
 </p>
