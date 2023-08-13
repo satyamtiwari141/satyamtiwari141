@@ -1,6 +1,6 @@
 # 💫About Me
 <h1 align="center">Hie, I'm Satyam Tiwari! 👋</h1>
-<h3 align="center">A passionate for learning and CyberSeurity Enthusiast</h3>
+<h3 align="center">A passionate for learning and Development</h3>
 
 # 👁Vistors
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamtiwari141&label=Profile%20views&color=0e75b6&style=flat" alt="satyamtiwari141" /> </p>
