@@ -1,4 +1,3 @@
-![HeaderImage](images/back.png)
 # 💫About Me
 <h1 align="center">Hie, I'm Satyam Tiwari! 👋</h1>
 <h3 align="center">A passionate for learning and CyberSeurity Enthusiast</h3>
